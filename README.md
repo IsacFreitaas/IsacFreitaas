@@ -7,6 +7,7 @@ A Data Scy student.
 <p align="left">
 <a href="https://twitter.com/isaczeitgeist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="isaczeitgeist" height="30" width="40" /></a>
 <a href="https://instagram.com/isac.sfreitas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="isac.sfreitas" height="30" width="40" /></a>
+<a href="https://www.tiktok.com/@devisaczeitgeist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/tiktok.svg" alt="devisaczeitgeist" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
