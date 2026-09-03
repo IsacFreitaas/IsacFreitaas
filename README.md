@@ -1,4 +1,4 @@
-<p><code>isacfreitaas@github:~$ whoami</code></p>
+<p><code>macbookprom1@IsacFreitaas:~$ whoami</code></p>
 
 <p align="center">
   <img src="https://www.gitskins.com/api/section/hero?username=isacfreitaas&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F65254733%3Fu%3D6205c71edc056b4c87ae47ed1cc1c87ac1de8565%26v%3D4&style=terminal" alt="IsacFreitaas" />Isac Freitas · DataScy & Python Developer
