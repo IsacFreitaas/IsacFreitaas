@@ -1,20 +1,35 @@
 # Isac Freitas
 
-### Ciência de Dados | Análise de Dados | Python
+### Ciência de Dados | Machine Learning | Python | Data Analytics | PowerBI
 
-Sou estudante de Ciência de Dados e Inteligência Artificial, com experiência prática em análise de dados, SQL, automação e desenvolvimento de soluções com Python.
+**Fortaleza - CE, Brasil**
 
-Tenho experiência com tratamento e visualização de dados, acompanhamento de indicadores, integração de APIs e bancos de dados, além do desenvolvimento de sistemas e automações para resolver problemas reais.
+Estudante de Ciência de Dados e Inteligência Artificial, com experiência em análise de dados, automação, machine learning e desenvolvimento de soluções com Python. Tenho interesse em transformar dados e processos em soluções úteis para problemas reais.
+
+## Experiência e atuação
+
+- Análise, tratamento e visualização de dados;
+- Consultas em SQL e acompanhamento de indicadores;
+- Integração com APIs, bancos de dados e serviços externos;
+- Automação de processos e rotinas com Python;
+- Desenvolvimento e manutenção de sistemas internos;
+- Desenvolvimento de APIs REST com FastAPI;
+- Criação de aplicações desktop com Flet e aplicativos Android com Flutter e Dart;
+- Investigação de problemas, análise de logs e suporte a usuários.
 
 ## Formação
 
 Graduando em Ciência de Dados e Inteligência Artificial pela [UniFanor Wyden](https://www.wyden.com.br/), com conclusão prevista para os próximos meses.
 
-## Tecnologias
+## Tecnologias e ferramentas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=111111)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ## Contato
