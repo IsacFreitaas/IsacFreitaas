@@ -1,29 +1,44 @@
-<p><code>macbookprom1@IsacFreitaas:~$ whoami</code></p>
+# Isac Freitas
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=isacfreitaas&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F65254733%3Fu%3D6205c71edc056b4c87ae47ed1cc1c87ac1de8565%26v%3D4&style=terminal" alt="IsacFreitaas" />Isac Freitas · DataScy & Python Developer
-</p>
+### Analista de Suporte | Dados, Automação e Python
 
-<pre><code>ROLE        = `Data Analysis` | `Python` | `SQL` | `PowerBI`
-LOCATION    = Fortaleza - CE
-EDUCATION   = UniFanor Wyden - Bachelor of Technology, Data Science (Aug 2024 – Present)
-LINKEDIN    = www.linkedin.com/in/isac-freitas-16a035223</code></pre>
+Atuo com suporte técnico, investigação de problemas e análise de dados. Gosto de transformar informações e processos em soluções mais claras, confiáveis e eficientes.
 
-## Languages and Tools
+## Sobre mim
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+Sou Analista de Suporte na [Cerus](https://cerus.com.br/), securitizadora especializada em gestão condominial em todo o Brasil. No dia a dia, trabalho com:
 
-## Onde me encontrar
+- Atendimento e suporte técnico N1/N2;
+- Investigação de bugs e análise de logs;
+- Consultas e análises em SQL;
+- Testes e integração de APIs REST com Postman;
+- Acompanhamento de indicadores de atendimento.
 
-<p align="left">
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=isaczeitgeist+contato@gmail.com" alt="Gmail"/></a>
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/isac-freitas-16a035223" alt="LinkedIn"/></a>
-  <a href="#" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/isaczeitgeist" alt="Instagram"/></a>
-</p>
+Também desenvolvo projetos pessoais e profissionais voltados a ciência de dados, análise de dados e automação de processos, principalmente com Python.
+
+## Formação
+
+Graduando em Ciência de Dados e Inteligência Artificial pela [UniFanor Wyden](https://www.wyden.com.br/), com conclusão prevista para os próximos meses.
+
+## Tecnologias e ferramentas
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=111111)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+## Em foco
+
+- Automação de tarefas e rotinas com Python;
+- Análise, tratamento e visualização de dados;
+- Desenvolvimento do raciocínio técnico para diagnóstico de incidentes;
+- Construção de soluções que aproximam tecnologia, operação e negócio.
+
+## Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isac-freitas-16a035223)
+[![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:isaczeitgeist.contato@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/isaczeitgeist)
